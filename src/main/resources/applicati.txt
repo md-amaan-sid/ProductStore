@@ -1,0 +1,38 @@
+INSERT INTO products (name, brand, category, price, description, image_file_name, created_at)
+VALUES ('iPhone 12', 'Apple', 'Phones', 969, 'Apple iPhone 12, 64GB, Black Unlocked and compatible with any
+carrier of choice on GSM and CDMA networks. Tested for battery health and guaranteed to come with a
+battery that exceeds 90% of original capacity.', '11736965.jpg', CURRENT_TIMESTAMP),
+('iPhone 13', 'Apple', 'Phones', 1299, 'Apple iPhone 13 Pro 512Go Graphite Unlocked and compatible
+with any carrier of choice on GSM and CDMA networks.', '97815739.jpg', CURRENT_TIMESTAMP),
+('iPhone 14', 'Apple', 'Phones', 969.8, 'Apple iPhone 14 Pro 128GB Purple', '57380538.jpg',
+CURRENT_TIMESTAMP),
+('Samsung Galaxy S5', 'Samsung', 'Phones', 299, 'Samsung Galaxy S5 1668 Black Unlocked', '88522267.jpg',
+CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy S23', 'Samsung', 'Phones', 749, 'SAMSUNG Galaxy S23 Cell Phone, Factory Unlocked
+Android Smartphone, 256GB Storage, SeMP Camera, Night Mode, Long Battery Life, Adaptive Display, US
+Version, 2023, Lavender', '66017605.jpg', CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z1', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z2', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z3', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z4', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z5', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z6', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z7', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z8', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z9', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z10', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z11', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z12', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z13', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z14', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z15', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z16', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z17', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z18', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z19', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z20', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z21', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z22', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z23', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z24', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP),
+('SAMSUNG Galaxy z25', 'Samsung', 'Phones', 899, 'SAMSUNG Galaxy Z Flip 3 56 Cell Phone, Factory Unlocked', '66017605.jpg',CURRENT_TIMESTAMP);
